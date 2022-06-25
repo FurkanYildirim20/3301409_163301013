@@ -1,6 +1,6 @@
 # flutter_loginui
 
-Bu uygulama Dr. Öğretim Üyesi Ahmet Cevahir ÇINAR tarafından yürütülen 3301409 kodlu MOBİL PROGRAMLAMA dersi kapsamında 163301013 numaralı Öğrenci Furkan Yıldırım tarafından 3 Temmuz 2022 günü yapılmıştır.
+Bu uygulama Dr. Öğretim Üyesi Ahmet Cevahir ÇINAR tarafından yürütülen 3301409 kodlu MOBİL PROGRAMLAMA dersi kapsamında 163301013 numaralı Öğrenci Furkan Yıldırım tarafından 30 Haziran 2022 günü yapılmıştır.
 
 
 ## Getting Started
